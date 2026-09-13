@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm a **Principal Software Engineer** with 10+ years building enterprise-scale web apps at **Fidelity Investments**, **Bank of America**, and **Moneygram International**.
+I'm a **Principal Software Engineer** with 12+ years building enterprise-scale web apps at **Fidelity Investments**, **Bank of America**, and **Moneygram International**.
 
 Right now I'm at the intersection of **Full stack engineering and AI** — integrating LLMs into UI patterns, building streaming AI interfaces, and automating developer workflows using Claude API, OpenAI, and GitHub Copilot.
 
