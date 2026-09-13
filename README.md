@@ -4,7 +4,7 @@
 
 # Hi, I'm Swetha Vengala 👋
 
-### Principal Frontend Engineer · AI Builder · Bay Area, CA
+### Principal Software Engineer · AI Builder · Bay Area, CA
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-swethavengala.vercel.app-3ddc84?style=flat-square&logo=vercel&logoColor=black)](https://swethavengala.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-swethavengala-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swethavengala)
@@ -16,9 +16,9 @@
 
 ### About me
 
-I'm a **Principal Frontend Engineer** with 10+ years building enterprise-scale web apps at **Fidelity Investments**, **Bank of America**, and **Moneygram International**.
+I'm a **Principal Software Engineer** with 10+ years building enterprise-scale web apps at **Fidelity Investments**, **Bank of America**, and **Moneygram International**.
 
-Right now I'm at the intersection of **frontend engineering and AI** — integrating LLMs into UI patterns, building streaming AI interfaces, and automating developer workflows using Claude API, OpenAI, and GitHub Copilot.
+Right now I'm at the intersection of **Full stack engineering and AI** — integrating LLMs into UI patterns, building streaming AI interfaces, and automating developer workflows using Claude API, OpenAI, and GitHub Copilot.
 
 - 🏗️ &nbsp;Architected a **DevEx platform** adopted by **100+ engineers** at Fidelity, cutting build times by 35%
 - 🌍 &nbsp;Led Angular → React migration for **global remittance UIs** serving millions of users at Moneygram
@@ -65,7 +65,7 @@ Right now I'm at the intersection of **frontend engineering and AI** — integra
 
 ```ts
 const swetha = {
-  role:      "Principal Frontend Engineer → AI Builder",
+  role:      "Principal Software Engineer → AI Builder",
   learning:  ["LLM streaming UI", "Claude API", "RAG patterns", "NestJS AI services"],
   stack:     ["React", "Angular", "TypeScript", "NX", "GraphQL", "AWS"],
   openTo:    "Frontend · Full-Stack · AI Engineering roles in Bay Area 🌉",
@@ -78,9 +78,9 @@ const swetha = {
 
 | Company | Role | Impact |
 |---|---|---|
-| Fidelity Investments | Principal Frontend Engineer | DevEx platform · 100+ engineers · 35% faster builds |
-| Moneygram International | Senior Frontend Developer | Angular→React · millions of users · AWS CI/CD |
-| Bank of America | Senior Frontend Developer | TreasuryConnect · D3.js · component library |
+| Fidelity Investments | Principal Software Engineer | DevEx platform · 100+ engineers · 35% faster builds |
+| Moneygram International | Senior Software Developer | Angular→React · millions of users · AWS CI/CD |
+| Bank of America | Senior Software Developer | TreasuryConnect · D3.js · component library |
 | Deutsche Bank | Senior UI Developer | AngularJS→Angular migration · compliance UIs |
 
 ---
